@@ -3,7 +3,7 @@
 define('HTTP_SERVER', 'http://localhost/sandcart/');
 define('HTTP_IMAGE', 'http://localhost/sandcart/image/');
 define('HTTP_ADMIN', 'http://localhost/sandcart/admin/');
-#config 
+#config  2
 // HTTPS
 define('HTTPS_SERVER', 'http://localhost/sandcart/');
 define('HTTPS_IMAGE', 'http://localhost/sandcart/image/');
